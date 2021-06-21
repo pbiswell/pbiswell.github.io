@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I've been doing web development for 15+ years, working with 
 
 ### More Information
 

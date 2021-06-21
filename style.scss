@@ -28,6 +28,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  display:flex;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -284,8 +285,9 @@ footer {
 }
 
 .sidebar {
-  float:right;
-  width:20%;
+  min-width:150px;
+  max-width:150px;
+  
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

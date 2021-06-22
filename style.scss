@@ -52,7 +52,7 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 16px;
 }
 
 h3 {
@@ -291,6 +291,8 @@ footer {
 .sidebar {
   min-width:150px;
   max-width:150px;
+  border-left:1px solid #000;
+  padding-left:10px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
